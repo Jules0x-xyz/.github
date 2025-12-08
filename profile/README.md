@@ -5,7 +5,7 @@
   <h1>WORLD-CLASS SOFTWARE ENGINEERING</h1>
 
   <p>
-    Engineering for products that move money, data and trust.<br>
+    Engineering for products that handle money, data and trust.<br>
     Blockchain, fintech and infrastructure built with a security-first mindset.
   </p>
 
@@ -21,29 +21,29 @@
   </p>
 
   <hr style="height:1px; border:none; background:#333; width:70%;">
+
 </div>
 
 
 ### What we do
 
-We design and build backend services, infrastructure and internal tools for teams operating in financial and data-sensitive environments.
-
-Our work is focused on clarity, security and long-term reliability — systems that stay predictable as they grow.
+We design and build backend services, infrastructure and internal tools for companies operating in financial, transactional and data-sensitive environments.  
+Our work is grounded in clarity, security and long-term reliability.
 
 
 ### How we work
 
-We favor straightforward engineering over trends, and architecture that can be reasoned about, audited and maintained.
+We keep engineering straightforward, intentional and predictable — no noise, no unnecessary complexity.
 
-- Clean interfaces and predictable behavior  
-- Security-driven design  
-- Long-term maintainability instead of quick fixes  
+- Clean interfaces and consistent behavior  
+- Security-driven architecture  
+- Systems that can be audited and maintained over time  
 
 
 ### Who we work with
 
-Teams that value uptime, trust and code quality.  
-We often join early, shape the technical foundations and deliver the first production-ready versions.
+Teams that value uptime, security and code quality.  
+We often join early, shape the technical foundations and deliver the first stable production versions.
 
 
 ---
@@ -52,19 +52,19 @@ We often join early, shape the technical foundations and deliver the first produ
 
   <h3>Connect</h3>
 
-  <a href="https://twitter.com/TU_USUARIO">
+  <a href="https://x.com/Jules0xcom">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:support@jules0x.xyz">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/TU_ORG">
+  <a href="https://github.com/Jules0x-xyz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/TU_USUARIO">
+  <a href="https://www.linkedin.com/company/jules0x/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
