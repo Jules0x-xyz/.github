@@ -16,8 +16,8 @@
   </p>
 
   <p>
-    <a href="https://jules0x.xyz/proyectos">Projects</a> · 
-    <a href="https://jules0x.xyz/contacto">Contact</a>
+    <a href="https://jules0x.xyz/#projects">Projects</a> · 
+    <a href="https://jules0x.xyz/#contact">Contact</a>
   </p>
 
   <hr style="height:1px; border:none; background:#333; width:70%;">
