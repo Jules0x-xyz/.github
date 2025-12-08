@@ -2,77 +2,75 @@
 
   <h3>JULES0X</h3>
 
-  <h1>INGENIERÍA DE SOFTWARE DE CLASE MUNDIAL</h1>
+  <h1>WORLD-CLASS SOFTWARE ENGINEERING</h1>
 
   <p>
-    Blockchain, fintech and security-first engineering.<br>
-    Blockchain, fintech y software con foco en seguridad.
+    Engineering for products that move money, data and trust.<br>
+    Blockchain, fintech and infrastructure built with a security-first mindset.
   </p>
 
   <p>
-    <a href="https://img.shields.io/badge/Blockchain-111827?style=for-the-badge"> </a>
-    <img src="https://img.shields.io/badge/Fintech-0F766E?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Security-7C3AED?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/BLOCKCHAIN-111827?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/FINTECH-0F766E?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/SECURITY-7C3AED?style=for-the-badge&labelColor=000000" />
   </p>
 
   <p>
-    <a href="https://jules0x.xyz/proyectos">Projects</a> ·
+    <a href="https://jules0x.xyz/proyectos">Projects</a> · 
     <a href="https://jules0x.xyz/contacto">Contact</a>
   </p>
 
+  <hr style="height:1px; border:none; background:#333; width:70%;">
 </div>
 
----
 
-<table>
-  <tr>
-    <td>
+### What we do
 
-      <strong>EN</strong>
+We design and build backend services, infrastructure and internal tools for teams operating in financial and data-sensitive environments.
 
-      <p>
-      Jules0x is a small engineering studio focused on building reliable systems
-      for teams working with money, data and infrastructure.
-      </p>
+Our work is focused on clarity, security and long-term reliability — systems that stay predictable as they grow.
 
-      <ul>
-        <li>Backend and infrastructure for financial products.</li>
-        <li>Blockchain and distributed systems.</li>
-        <li>Security-driven design and implementation.</li>
-      </ul>
 
-    </td>
-    <td>
+### How we work
 
-      <strong>ES</strong>
+We favor straightforward engineering over trends, and architecture that can be reasoned about, audited and maintained.
 
-      <p>
-      Jules0x es un estudio de ingeniería centrado en sistemas fiables
-      para equipos que trabajan con dinero, datos e infraestructura.
-      </p>
+- Clean interfaces and predictable behavior  
+- Security-driven design  
+- Long-term maintainability instead of quick fixes  
 
-      <ul>
-        <li>Backend e infraestructura para productos financieros.</li>
-        <li>Blockchain y sistemas distribuidos.</li>
-        <li>Diseño e implementación orientados a la seguridad.</li>
-      </ul>
 
-    </td>
-  </tr>
-</table>
+### Who we work with
 
----
+Teams that value uptime, trust and code quality.  
+We often join early, shape the technical foundations and deliver the first production-ready versions.
 
-### What we do / Qué hacemos
-
-- We design and build software that can be audited, scaled and maintained.  
-- Diseñamos y construimos software que se puede auditar, escalar y mantener.
 
 ---
 
 <div align="center">
 
-  Jules0x · Engineering for the next decade ·  
+  <h3>Connect</h3>
+
+  <a href="https://twitter.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/TU_ORG">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/TU_USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <br><br>
+
+  <strong>Jules0x — Engineering for the next decade</strong><br>
   <a href="https://jules0x.xyz">https://jules0x.xyz</a>
 
 </div>
