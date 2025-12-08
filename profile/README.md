@@ -1,54 +1,78 @@
 <div align="center">
-  <h3 style="font-weight:700; letter-spacing:1px;">JULES0X</h3>
 
-  <h1 style="font-weight:900; margin-top:10px;">
-    INGENIERÍA DE SOFTWARE DE CLASE MUNDIAL
-  </h1>
+  <h3>JULES0X</h3>
 
-  <p style="max-width:500px; margin:auto; line-height:1.6;">
-    Blockchain, Fintech y Ciberseguridad.  
-    Construimos tecnología diseñada para durar, escalar y proteger.
+  <h1>INGENIERÍA DE SOFTWARE DE CLASE MUNDIAL</h1>
+
+  <p>
+    Blockchain, fintech and security-first engineering.<br>
+    Blockchain, fintech y software con foco en seguridad.
   </p>
 
   <p>
-    <a href="https://jules0x.xyz/proyectos">Explorar proyectos</a> ·
-    <a href="https://jules0x.xyz/contacto">Contactar</a>
+    <a href="https://img.shields.io/badge/Blockchain-111827?style=for-the-badge"> </a>
+    <img src="https://img.shields.io/badge/Fintech-0F766E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Security-7C3AED?style=for-the-badge" />
   </p>
+
+  <p>
+    <a href="https://jules0x.xyz/proyectos">Projects</a> ·
+    <a href="https://jules0x.xyz/contacto">Contact</a>
+  </p>
+
 </div>
 
 ---
 
-## EN / About Jules0x
+<table>
+  <tr>
+    <td>
 
-We build high-quality software for teams that need reliability, security and long-term scalability.
+      <strong>EN</strong>
 
-Focused on:
-- Blockchain and distributed systems  
-- Financial technology  
-- Security-driven software engineering  
+      <p>
+      Jules0x is a small engineering studio focused on building reliable systems
+      for teams working with money, data and infrastructure.
+      </p>
+
+      <ul>
+        <li>Backend and infrastructure for financial products.</li>
+        <li>Blockchain and distributed systems.</li>
+        <li>Security-driven design and implementation.</li>
+      </ul>
+
+    </td>
+    <td>
+
+      <strong>ES</strong>
+
+      <p>
+      Jules0x es un estudio de ingeniería centrado en sistemas fiables
+      para equipos que trabajan con dinero, datos e infraestructura.
+      </p>
+
+      <ul>
+        <li>Backend e infraestructura para productos financieros.</li>
+        <li>Blockchain y sistemas distribuidos.</li>
+        <li>Diseño e implementación orientados a la seguridad.</li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ES / Sobre Jules0x
+### What we do / Qué hacemos
 
-Creamos software de alto nivel para equipos que requieren fiabilidad, seguridad y escalabilidad real.
-
-Enfocados en:
-- Blockchain y sistemas distribuidos  
-- Tecnología financiera  
-- Ingeniería de software orientada a la seguridad  
+- We design and build software that can be audited, scaled and maintained.  
+- Diseñamos y construimos software que se puede auditar, escalar y mantener.
 
 ---
 
-## Work
+<div align="center">
 
-- Infraestructura y herramientas técnicas  
-- Productos propios y proyectos open source  
-- Investigación aplicada en Web3 y seguridad  
-
----
-
-<div align="center" style="margin-top:30px;">
-  <strong>Jules0x • Engineering for the next decade</strong><br>
+  Jules0x · Engineering for the next decade ·  
   <a href="https://jules0x.xyz">https://jules0x.xyz</a>
+
 </div>
