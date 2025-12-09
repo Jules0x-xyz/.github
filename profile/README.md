@@ -62,11 +62,7 @@ We often join early, shape the technical foundations and deliver the first stabl
 
   <a href="https://github.com/Jules0x-xyz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/company/jules0x/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a
 
   <br><br>
 
